@@ -27,3 +27,13 @@ The complete application is built based on the MVVM architectural pattern. The a
 <H2><li> Search by Title</li> <H2>
 
 <img src="search.png" class="w3-round" alt="Norway">
+
+
+<br>
+<H2> Programming Practices Followed </H2>
+
+1) Android Architectural Components 
+2) Dagger 2 for Dependency Injection 
+3) MVVM 
+4) Retrofit with Okhttp  
+5) JUnit and Mockito for Unit testing 
