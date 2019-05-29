@@ -12,6 +12,6 @@ The complete application is built based on the MVVM architectural pattern. The a
 
 <img src="list.png" class="w3-round" alt="Norway">
 
-<img src="deatil.png" class="w3-round" alt="Norway">
+<img src="detail.png" class="w3-round" alt="Norway">
 
 <img src="search.png" class="w3-round" alt="Norway">
