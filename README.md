@@ -17,15 +17,15 @@
 The complete application is built based on the MVVM architectural pattern. The application follows the best coding practices.
 
 <H1> Screenshots </H1>
-
+<br>
 <H2><li> Most Popular News List</li> <H2>
 
 <img src="list.png" class="w3-round" alt="Norway">
-
+<br>
 <H2><li> News Details Page </li> <H2>
 
 <img src="detail.png" class="w3-round" alt="Norway">
-
+<br>
 <H2><li> Search by Title</li> <H2>
 
 <img src="search.png" class="w3-round" alt="Norway">
