@@ -2,8 +2,8 @@
 
 <H3>Key Areas</H3>
 
-MVVM Architectural pattern
-Unit test demonstration using JUnit and Mockito
+<li> MVVM Architectural pattern </li>
+<li> Unit test demonstration using JUnit and Mockito </li>
 
 Application code is written to demonstate the coding pattern using Android Architecture components MVVM. The application is showing the populer news section using New York times api.
 
