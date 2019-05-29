@@ -16,6 +16,8 @@
 
 The complete application is built based on the MVVM architectural pattern. The application follows the best coding practices.
 
+<H1> Screenshots </H1>
+
 <H2><li> Most Popular News List</li> <H2>
 
 <img src="list.png" class="w3-round" alt="Norway">
