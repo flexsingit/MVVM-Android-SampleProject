@@ -12,7 +12,7 @@
 <li> UI Implementation </li>
 <li> Unit test demonstration using JUnit and Mockito </li>
 
-<br>Application code is written to demonstrate the coding pattern using Android Architecture components MVVM. The application is showing the popular news section using New York times api.
+<br> Application code is written to demonstrate the coding pattern using MVVM design pattern in Android. The application is showing the popular news section using New York times api.
 
 The complete application is built based on the MVVM architectural pattern. The application follows the best coding practices.
 
