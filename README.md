@@ -1,11 +1,11 @@
-<H1>New york time api key android with MVVM, RxJava and retrofit</H1>
+<H1>Sample Project with New york time api with MVVM, RxJava and Retrofit </H1>
 
-<H3>Highlights</H3>
+<H3>Key Areas</H3>
 
 MVVM Architectural pattern
 Unit test demonstration using JUnit and Mockito
-UI unit test demonstartion using Espresso
-Gradle scripts for running sonarqube static code analysis, code coverage, etc.
-The application has been built with offline support. It has been designed using Android Architecture components with Room for offline data caching. The application is built in such a way that whenvever there is a service call, the result will be stored in local database.
 
-The whole application is built based on the MVVM architectural pattern.
+Application code is written to demonstate the coding pattern using Android Architecture components MVVM. The application is showing the populer news section using New York times api.
+
+The complete application is built based on the MVVM architectural pattern. The application follows the best coding practices.
+
