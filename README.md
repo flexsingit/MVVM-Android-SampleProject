@@ -1,5 +1,6 @@
 <H1>New york time api key android with MVVM, RxJava and retrofit</H1>
-Highlights
+
+<H3>Highlights</H3>
 
 MVVM Architectural pattern
 Unit test demonstration using JUnit and Mockito
